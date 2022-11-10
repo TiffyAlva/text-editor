@@ -18,12 +18,21 @@
 ![](./client/src/images/IndexedDB3.jpg)
 
 ## Table of Contents:
+* [Tools Used](#tools-used)
+* [Visuals](#visuals)
+* [Description](#description)
+* [Heroku](#heroku-link)
+* [Installation](#installation)
+* [Tests](#tests)
+* [Contributing](#contributing)
+* [License](#license)
+* [Information Contacts](#information-contacts)
 
 
 ## Description:
 - This application allows to create notes or code snippets with or without an internet connection.
 
-## Heroku:
+## Heroku Link:
 - https://tiffyalva-pwa-text-editor.herokuapp.com/
 
 ## Installation:
@@ -36,5 +45,9 @@
 - N/A
 
 ## License:
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 ## Information Contacts:
+* GitHub Username: <a href="https://github.com/TiffyAlva">TiffyAlva</a>
+* Email: <a href="malito:TiffanyAlvarez54@gmail.com">TiffanyAlvarez54@gmail.com
