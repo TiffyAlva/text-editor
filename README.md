@@ -8,7 +8,14 @@
 
 ## Visuals:
 
-![](./)
+- MockUp
+![](./client/src/images/MockUp1.jpg)
+
+- This shows the application's registered service worker.
+![](./client/src/images/server-workers2.jpg)
+
+- This shows the application's registered service worker.
+![](./client/src/images/IndexedDB3.jpg)
 
 ## Table of Contents:
 
