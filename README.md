@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# Text Editor
 
 ## Tools Used:
 - JavaScript
